@@ -1,0 +1,59 @@
+/** Copyright(c) 2021 Netcode Ltd. | All Rights Reserved **/
+html,body { margin: 0; padding: 0; overflow-x: hidden; overflow-y: hidden; }
+body{ margin: 0; background-image: url("3d bg.jpg");
+padding: 0;overflow: hidden; /*background: url("GangstarBobAppbg.mp3");*/}
+.share-btn.facebook { background: #3B5998; }
+.start-btn { display: flex; background-color: #9c0bfc; width: 150px; height: 100px;
+border-color: rgb(25, 0, 255); border-width: 10px; transform: translate(15%,50%); /*rotateZ(5deg);*/ border-radius: 5px;
+ }
+.start-btn2 { display: flex; background-color: #0d974b; width: 300px; height: 345px; 
+border-color: blue; transform: translate(320%,0%); border-radius: 0px;}
+.buttons { display: flex; }
+/*Gangstar Bob Front Page Image*/
+.GangstarBob { transform: translate(45%,20%); }
+.start-btn3 {display: flex; background-color: #0d974b; 
+             width: 1500px; height: 100px; border-color
+             : blue;border-width: 10px; transform: 
+             translate(-100%,120%); border-radius: 5px; }
+h1{color: #fff;font-size: 3rem;font-weight: 50;text-align: center;margin: 1rem 0 3rem; font-family: 'Hind', sans-serif;
+}.title{color: rgb(63, 125, 218);text-transform: uppercase;font-weight: 800;}.inputDiv{display: flex;justify-content: center;
+align-items: center;color:#000000;font-size: 0.05px; transform: translate(-10%,0%);}.input{color:#000000;padding: 0.5rem 1rem;outline: none;border: none;height: 30px;border-radius: 25px;
+width: 200px;margin: 0.25rem;transition: .5s;font-size: 1.15rem; transform: translate(-10%,20%);}.add{outline: none;border: none;height: 50px;
+border-radius: 25px;width: 65px;background-color: rgb(17, 226, 216);color: white;cursor: pointer;transition: .5s;margin: 0.25rem;}
+.add:hover{opacity: 0.7;}.container{display: flex;flex-direction: column;justify-content: center;align-items: center;text-align: center;margin-top: 2rem;
+}.item{padding: 0.5rem;border-bottom: 4px solid #fff;margin-bottom: 1.5rem;}.item_input{background: none;
+outline: none;border: none;color: #fff;/*font-size: 1.4rem;*/font-size: 0.05px; width: 245px;}.edit{background: none;outline: none;border: none;
+color: lime;font-size: 1.4rem;font-family: 'Hind', sans-serif;margin: 0 0.5rem;
+cursor: pointer;}.remove{background: none;outline: none;border: none;color: rgb(151, 14, 14);font-size: 1.4rem;font-family: 'Hind', sans-serif;cursor: pointer;}
+
+/** Start Button Design UI && UX*
+.start-btn {  }*/
+.settings { transform: translate(-160%,250%); }
+
+/* Privacy and Policy button UI && UX button */
+.privacyPolicy-btn { background-color: #da1414; width: 200px; height: 100px; border-radius: 5px; transform: translate(-250%,50%);}
+.tt { width: 100px; height: 100px; }
+#mycanvas{border:1px solid red; }
+.tv { transform: translate(-220%,120%); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
